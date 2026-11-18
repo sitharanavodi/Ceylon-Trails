@@ -1,3 +1,11 @@
+# Ceylon Trails
+
+**Name:T.L.Navodi Sithara
+**Student ID:** FGS/MSc/CS/2023/004
+**Course:** COSC 64173 Mobile Computing, Assignment 01, University of Kelaniya
+
+- **Repository:**https://github.com/sitharanavodi/Ceylon-Trails
+- **Demo video:** https://drive.google.com/file/d/1VXj_uW__6V1bvnVMDnRWQLwpsDed7RJq/view?usp=drive_link
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
